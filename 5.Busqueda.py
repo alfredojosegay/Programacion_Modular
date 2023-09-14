@@ -15,3 +15,4 @@ if posicion != -1:
     print(f"El número {numero_a_buscar} se encuentra en la posición {posicion} del arreglo.")
 else:
     print(f"El número {numero_a_buscar} no se encuentra en el arreglo.")
+    
